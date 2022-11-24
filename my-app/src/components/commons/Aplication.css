@@ -1,0 +1,53 @@
+.title-Aplication{
+    font-size: 50px;
+    font-weight: bold;
+    color: #2C0667;
+    text-align: center;
+    margin-top: -100px;
+}
+.education-image{
+    margin-top: 100px;
+    display: flex;
+    align-content:space-between;
+    align-items: flex-end;
+}
+
+.education-image h3 {
+    color:#4B4EBA;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    align-items: center;
+    align-content: center;
+    margin-left: 120px;
+    
+}
+
+.tourism h3{
+    color:#4B4EBA;
+    font-size: 30px;
+    font-weight: bold;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 120px;
+    
+}
+
+.education-image figure{
+   margin-left: 500px;
+}
+
+.education p{
+    font-size: 30px;
+    font-family: 'roboto';
+    color: #000000;
+}
+
+.tourism p{
+    padding-left: 370px;
+    margin-top: -200px;
+    
+    font-size: 30px;
+    color:black;
+    font-family: 'roboto';
+}

@@ -1,0 +1,19 @@
+.Header.navbar{
+ background-color:transparent;
+}
+
+.navbar-item img {
+    max-width: 500px;
+    max-height: 200px;
+    width: 150px;
+
+}
+
+.navbar-menu{
+    padding-top:30px;
+    margin-left: 20px;
+}
+
+.navbar-end{
+    padding-top:30px;
+}
